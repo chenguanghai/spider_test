@@ -72,8 +72,6 @@ class KuaiDaiLISpider(object):
             return can_use
 
 
-
-
     def main(self):
         """调度器"""
         #1.拼接url,发送请求
